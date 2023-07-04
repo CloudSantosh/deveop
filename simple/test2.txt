@@ -1,0 +1,1 @@
+checking communication between sonarqube and jenkins and github
